@@ -8,7 +8,9 @@ Olá!, Bem vindo ao meu livro de receitas :wave:
 
 - Bolo de cenoura
 
-- Strogonoff de frando
+- Strogonoff de frango
+
+- Bolo de batata
 
   
 
